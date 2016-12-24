@@ -1,3 +1,9 @@
+/*
+ * IPS Patcher - implementation
+ *
+ * Sam Elsharif 2012
+ *
+ */
 #include "IPSPatcherHandler.h"
 #include "stdafx.h"
 #include <iostream>

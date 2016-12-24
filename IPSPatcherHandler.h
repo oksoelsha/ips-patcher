@@ -1,3 +1,9 @@
+/*
+ * IPS Patcher
+ *
+ * Sam Elsharif 2012
+ *
+ */
 #pragma once
 
 #define PATCH_APPLY_SUCCESS	0
